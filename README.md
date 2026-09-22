@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight)
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Naitik355&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight" />
 <img height="165" src="https://streak-stats.demolab.com/?user=@Naitik355&theme=tokyonight&hide_border=true"/><br />
 <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=@Naitik355&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 
