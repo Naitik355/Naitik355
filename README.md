@@ -12,20 +12,11 @@
 
 <!-- ☕ Social Icons -->
 <p align="center">
-  <a href="https://linkedin.com/in/Naitik355" target="_blank">
+  <a href="https://linkedin.com/in/naitik-aggarwal-402755320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/Naitik355" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:john.doe@example.com" target="_blank">
+  <a href="mailto:naitikaggarwal252@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://dev.to/Naitik355" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://Naitik355.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -34,7 +25,7 @@
 ### 🌈 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,java,spring,html,css,tailwind,mongodb,postgres,mysql,docker,kubernetes,aws,git,github,figma,vscode&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,django,flask,html,css,tailwind,mongodb,postgres,mysql,git,github/>
 </p>
 
 ---
@@ -43,27 +34,15 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Naitik355&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitik355&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=@Naitik355&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" /><br />
+<img height="165" src="https://streak-stats.demolab.com/?user=@Naitik355&theme=tokyonight&hide_border=true"/><br />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=@Naitik355&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 
-</div>
-
-<!-- 🔥 Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naitik355&theme=tokyonight&hide_border=true" />
 </div>
 
 <!-- 📈 Contribution Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naitik355&theme=tokyo-night&hide_border=true" width="100%" />
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naitik355&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
