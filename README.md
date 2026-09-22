@@ -5,7 +5,7 @@
 
 <!-- ⚡ Animated Typing Text -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%92%9C;Always+Learning+New+Things+%F0%9F%93%9A;Welcome+to+my+Profile+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Aspiring+AI/ML+Engineer+%F0%9F%92%9C;Always+Learning+New+Things+%F0%9F%93%9A;Welcome+to+my+Profile+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 </div>
@@ -22,32 +22,28 @@
 
 ---
 
-### 🌈 Skills & Tech Stack
+### Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,django,flask,html,css,tailwind,mongodb,postgres,mysql,git,github/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,django,flask,html,css,tailwind,mongodb,postgres,mysql,git,github"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Naitik355&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight" />
-<img height="165" src="https://streak-stats.demolab.com/?user=@Naitik355&theme=tokyonight&hide_border=true"/><br />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=@Naitik355&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
-
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Naitik355&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=@Naitik355&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=Naitik355&layout=donut&theme=tokyonight&hide_border=true"/>
 </div>
 
+<br/>
 <!-- 📈 Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naitik355&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://ghchart.rshah.org/8b5cf6/Naitik355" alt="GitHub Contribution Graph">
 </div>
-
----
-
-### 🐍 Snake Contribution Animation
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Naitik355/Naitik355/output/github-contribution-grid-snake-dark.svg" width="100%" />
